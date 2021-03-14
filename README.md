@@ -3,7 +3,7 @@ Available on the App Store: [Узнай себя лучше](https://apps.apple.
 
 Узнай себя лучше - собственное приложение написанное с нуля. Психологические тесты.
 Использовались технологии:
-*UIKit, StoryBoards
-*Несколько TableView
-*Navigation, segues
-*CoreData
+* UIKit, StoryBoards
+* Несколько TableView
+* Navigation, segues
+* CoreData
