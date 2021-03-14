@@ -6,5 +6,6 @@ Available on the App Store: [Узнай себя лучше](https://apps.apple.
 Использовались технологии:
 * UIKit, StoryBoards
 * TableView
+* UITabBarController
 * Navigation, segues
 * CoreData
